@@ -1,0 +1,25 @@
+{
+  "name": "@jmellicker/jlogs",
+  "version": "0.0.6",
+  "description": "Cool colored console logs for Node and browser.",
+  "main": "index.js",
+  "author" : "Emperor Brains"
+  "scripts": {
+    "release": "release-it --ci"
+  },
+  "devDependencies": {
+    "release-it": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emperorbrains/eblogs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emperorbrains/eblogs/issues"
+  },
+  "homepage": "https://github.com/emperorbrains/eblogs#readme",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
