@@ -1,4 +1,4 @@
-# eb-logs
+# eb logs
 
 ## :white_check_mark: Install :ok_hand:
 
